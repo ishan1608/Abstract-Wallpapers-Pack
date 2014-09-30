@@ -1,0 +1,8 @@
+Package: abstract-wallpapers-ishan
+Version: 0.0.1
+Architecture: all
+Maintainer: Ishan <ishanatmuzaffarpur@gmail.com>
+Installed-Size: 3170
+Section: x11
+Priority: optional
+Description: Abstract wallpapers handpicked by Ishan
